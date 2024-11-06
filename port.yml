@@ -2,6 +2,6 @@
   blueprint: service
   properties:
     type: "frontend"
-    lifecycle: "Deprecated"
+    lifecycle: "Deprecated1"
   relations:
     domain: "payment"
