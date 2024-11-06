@@ -1,0 +1,7 @@
+- identifier: "portprocess"
+  blueprint: service
+  properties:
+    type: "frontend"
+    lifecycle: "Deprecated"
+  relations:
+    domain: "payment"
