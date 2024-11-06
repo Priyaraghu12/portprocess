@@ -4,4 +4,4 @@
     type: "frontend"
     lifecycle: "dev"
   relations:
-    domain: "payment"
+    calculationservice: "priya_calculation_service"
